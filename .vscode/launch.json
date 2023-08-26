@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "stringex",
+            "request": "launch",
+            "mainClass": "stringex",
+            "projectName": "JAVADSA_343fedd5"
+        },
+        {
+            "type": "java",
+            "name": "array2q9",
+            "request": "launch",
+            "mainClass": "array2q9",
+            "projectName": "JAVADSA_343fedd5"
+        },
+        {
+            "type": "java",
+            "name": "array3q2",
+            "request": "launch",
+            "mainClass": "array3q2",
+            "projectName": "JAVADSA_343fedd5"
+        },
+        {
+            "type": "java",
+            "name": "ex",
+            "request": "launch",
+            "mainClass": "ex",
+            "projectName": "JAVADSA_343fedd5"
+        },
+        {
+            "type": "java",
+            "name": "array1q1",
+            "request": "launch",
+            "mainClass": "array1q1",
+            "projectName": "JAVADSA_343fedd5"
+        },
+        {
+            "type": "java",
+            "name": "array3q1",
+            "request": "launch",
+            "mainClass": "array3q1",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q10",
+            "request": "launch",
+            "mainClass": "array2q10",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q9",
+            "request": "launch",
+            "mainClass": "array2q9",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q8",
+            "request": "launch",
+            "mainClass": "array2q8",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q7",
+            "request": "launch",
+            "mainClass": "array2q7",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q6",
+            "request": "launch",
+            "mainClass": "array2q6",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q5",
+            "request": "launch",
+            "mainClass": "array2q5",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q4",
+            "request": "launch",
+            "mainClass": "array2q4",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "array1q1",
+            "request": "launch",
+            "mainClass": "array1q1",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array1q2",
+            "request": "launch",
+            "mainClass": "array1q2",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array1q3",
+            "request": "launch",
+            "mainClass": "array1q3",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array1q4",
+            "request": "launch",
+            "mainClass": "array1q4",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array1q5",
+            "request": "launch",
+            "mainClass": "array1q5",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q1",
+            "request": "launch",
+            "mainClass": "array2q1",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q2",
+            "request": "launch",
+            "mainClass": "array2q2",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "array2q3",
+            "request": "launch",
+            "mainClass": "array2q3",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q1",
+            "request": "launch",
+            "mainClass": "nestedfor2q1",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q10",
+            "request": "launch",
+            "mainClass": "nestedfor2q10",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q2",
+            "request": "launch",
+            "mainClass": "nestedfor2q2",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q3",
+            "request": "launch",
+            "mainClass": "nestedfor2q3",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q4",
+            "request": "launch",
+            "mainClass": "nestedfor2q4",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q5",
+            "request": "launch",
+            "mainClass": "nestedfor2q5",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q6",
+            "request": "launch",
+            "mainClass": "nestedfor2q6",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q7",
+            "request": "launch",
+            "mainClass": "nestedfor2q7",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q8",
+            "request": "launch",
+            "mainClass": "nestedfor2q8",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedfor2q9",
+            "request": "launch",
+            "mainClass": "nestedfor2q9",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq1",
+            "request": "launch",
+            "mainClass": "nestedforq1",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq10",
+            "request": "launch",
+            "mainClass": "nestedforq10",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq2",
+            "request": "launch",
+            "mainClass": "nestedforq2",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq3",
+            "request": "launch",
+            "mainClass": "nestedforq3",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq4",
+            "request": "launch",
+            "mainClass": "nestedforq4",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq5",
+            "request": "launch",
+            "mainClass": "nestedforq5",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq6",
+            "request": "launch",
+            "mainClass": "nestedforq6",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq7",
+            "request": "launch",
+            "mainClass": "nestedforq7",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq8",
+            "request": "launch",
+            "mainClass": "nestedforq8",
+            "projectName": "JAVADSA_3ff67cb6"
+        },
+        {
+            "type": "java",
+            "name": "nestedforq9",
+            "request": "launch",
+            "mainClass": "nestedforq9",
+            "projectName": "JAVADSA_3ff67cb6"
+        }
+    ]
+}
